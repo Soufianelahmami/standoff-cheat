@@ -19,31 +19,30 @@
 "admob_reward":"ca-app-pub-3940256099942544/5224354917",
   
   
-"yandex_banner":"R-M-DEMO-320x100",
-"yandex_inter":"R-M-DEMO-interstitial",
-"yandex_native":"R-M-DEMO-native-i",
-"yandex_reward":"demo-rewarded-yandex",
-
-
-
-"banner_network_choice":"admob", 
-"interstisial_network_choice":"admob", 
-"reward_network_choice":"admob",
-"native_network_choice":"admob"
+"yandex_banner":"R-M-2383836-1",
+"yandex_inter":"R-M-2383836-3",
+"yandex_native":"R-M-2383836-2",
+"yandex_reward":"R-M-2383836-4",
   
+
+
+"banner_network_choice":"yandex", 
+"interstisial_network_choice":"yandex", 
+"reward_network_choice":"yandex",
+"native_network_choice":"yandex"
   
 
 },
- 
- "my_data":[
-  {"title":"tips pack 1","desc":"Standoff cheat refers to the use of cheating tactics in the mobile game Standoff 2, a popular first-person shooter game developed by Axlebolt. Cheating in any form is considered unethical and can have significant negative consequences for both the individual and the game's community. In this article, ","photo":"https://iili.io/HSh1npI.jpg"},
-  {"title":"advance mod 2","desc":" we will explore what Standoff cheat is, how it is done, its consequences, and ways to prevent it.","photo":"https://iili.io/HSh1xIt.jpg"},
-  {"title":"how to use this app 3","desc":"Standoff cheat refers to the use of external tools or software to gain an unfair advantage in the game. The most common form of Standoff cheat is using aimbots, wallhacks, or ESP (Extra Sensory Perception) hacks.","photo":"https://iili.io/HSh1zhX.jpg"},
-  {"title":"helper pack 4","desc":"Aimbots are software that automatically aim and shoot at enemies, making it easier for the player to kill opponents. Wallhacks allow players to see through walls, giving them an unfair advantage by allowing them to track enemies and avoid ambushes. ","photo":"https://iili.io/HSh1CkN.jpg"},
-  {"title":"advice mod 5","desc":" ESP hacks display the location of enemies, their health, and other essential information on the player's screen, making it easier to avoid them or plan an attack.","photo":"https://iili.io/HSh1IQn.webp"},
-  {"title":"tips pack 6 ","desc":"These cheating tactics are often used by players who want to boost their rankings or simply want to show off their skills to friends. Unfortunately, Standoff cheat can ruin the gaming experience for others, making it difficult for players who play fair to compete.","photo":"https://iili.io/HSh1uBs.jpg"},
-  {"title":"advance mod 7","desc":"There are various ways to cheat in Standoff 2. One common method is to download and use external software, such as cheat engines or modded APKs. ","photo":"https://iili.io/HSh1AEG.jpg"},
-  {"title":"helper pack 8,"desc":"These tools allow players to modify the game's code, giving them access to features that are not normally available to regular players. Another method is to purchase cheats from websites that offer them for a fee. These cheats often come with built-in anti-ban features to prevent players from getting caught.","photo":"https://iili.io/HSh1R4f.jpg"}
+  "my_data":[
+  {"title":"title1 ser","desc":"description1 ser","photo":"https://about.gitlab.com/images/press/logo/jpg/gitlab-logo-600.jpg"},
+  {"title":"title2 ser","desc":"description2 ser","photo":"https://about.gitlab.com/images/press/logo/jpg/gitlab-logo-600.jpg"},
+  {"title":"title3 ser","desc":"description3 ser","photo":"https://about.gitlab.com/images/press/logo/jpg/gitlab-logo-600.jpg"},
+  {"title":"title4 ser","desc":"description4 ser","photo":"https://about.gitlab.com/images/press/logo/jpg/gitlab-logo-600.jpg"},
+  {"title":"title5 ser","desc":"description5 ser","photo":"https://about.gitlab.com/images/press/logo/jpg/gitlab-logo-600.jpg"},
+  {"title":"title6 ser","desc":"description6 ser","photo":"https://about.gitlab.com/images/press/logo/jpg/gitlab-logo-600.jpg"},
+  {"title":"title7 ser","desc":"description7 ser","photo":"https://about.gitlab.com/images/press/logo/jpg/gitlab-logo-600.jpg"},
+  {"title":"title8 ser","desc":"description8 ser","photo":"https://about.gitlab.com/images/press/logo/jpg/gitlab-logo-600.jpg"}
+
    ]
  
 }
